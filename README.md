@@ -4,3 +4,4 @@ This is awesome project.
 ## Author
 [Author](author.md)
 ## Some new section here
+Some changes for conflict2 #13
